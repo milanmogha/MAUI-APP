@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|c:\\users\\mogha\\desktop\\blazormauiapp\\blazormauiapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|solutionrelative:blazormauiapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|c:\\users\\mogha\\desktop\\blazormauiapp\\blazormauiapp\\components\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|solutionrelative:blazormauiapp\\components\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|c:\\users\\mogha\\desktop\\blazormauiapp\\blazormauiapp\\components\\headercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|solutionrelative:blazormauiapp\\components\\headercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|c:\\users\\mogha\\desktop\\blazormauiapp\\blazormauiapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|solutionrelative:blazormauiapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|c:\\users\\mogha\\desktop\\blazormauiapp\\blazormauiapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AF799A0-F32D-49D5-B200-5AAECED1203C}|BlazorMauiApp\\BlazorMauiApp.csproj|solutionrelative:blazormauiapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorMauiApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorMauiApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:32:25.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\Components\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorMauiApp\\Components\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\Components\\NavMenu.razor",
+              "RelativeToolTip": "BlazorMauiApp\\Components\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:32:07.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeaderComponent.razor",
+              "DocumentMoniker": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\Components\\HeaderComponent.razor",
+              "RelativeDocumentMoniker": "BlazorMauiApp\\Components\\HeaderComponent.razor",
+              "ToolTip": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\Components\\HeaderComponent.razor",
+              "RelativeToolTip": "BlazorMauiApp\\Components\\HeaderComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T10:31:59.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorMauiApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorMauiApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-22T10:28:57.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorMauiApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorMauiApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-22T07:10:03.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

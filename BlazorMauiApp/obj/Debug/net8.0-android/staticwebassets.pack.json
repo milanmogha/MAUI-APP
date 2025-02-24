@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\BlazorMauiApp.styles.css",
+      "PackagePath": "staticwebassets\\BlazorMauiApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\css\\app.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\apps\\calender.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\calender.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\apps\\figma.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\figma.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\apps\\google-docs.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\google-docs.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\apps\\google-sheets.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\google-sheets.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\apps\\google.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\apps\\microsoft-powerpoint.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\microsoft-powerpoint.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\apps\\microsoft-word.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\microsoft-word.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\apps\\sketch.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\sketch.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\apps\\translate.png",
+      "PackagePath": "staticwebassets\\assets\\images\\apps\\translate.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\authentication\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\authentication\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\authentication\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\authentication\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\ecommerce\\jpg\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\jpg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\ecommerce\\jpg\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\jpg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\ecommerce\\jpg\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\jpg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\ecommerce\\jpg\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\jpg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\ecommerce\\jpg\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ecommerce\\jpg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\faces\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\faces\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\faces\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\faces\\15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\faces\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\faces\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\faces\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faces\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\flags\\argentina_flag.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\argentina_flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\flags\\french_flag.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\french_flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\flags\\germany_flag.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\germany_flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\flags\\italy_flag.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\italy_flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\flags\\russia_flag.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\russia_flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\flags\\spain_flag.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\spain_flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\flags\\us_flag.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\us_flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\backgrounds\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\backgrounds\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\backgrounds\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\backgrounds\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\backgrounds\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\backgrounds\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\backgrounds\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\backgrounds\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\backgrounds\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\backgrounds\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\landing\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\landing\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\landing\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\landing\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\media-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\media-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\media-19.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\media-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\media-65.png",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\media-65.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\media-68.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\media-68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\media-79.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\media-79.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\media-85.png",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\media-85.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\media\\team-covers\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\media\\team-covers\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\menu-bg-images\\bg-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-bg-images\\bg-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\menu-bg-images\\bg-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-bg-images\\bg-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\menu-bg-images\\bg-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-bg-images\\bg-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\menu-bg-images\\bg-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-bg-images\\bg-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\menu-bg-images\\bg-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-bg-images\\bg-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\menu-bg-images\\transparent.png",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-bg-images\\transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\v4u-logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\v4u-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\v4u-logo-lite.png",
+      "PackagePath": "staticwebassets\\assets\\images\\v4u-logo-lite.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\images\\v4umob.png",
+      "PackagePath": "staticwebassets\\assets\\images\\v4umob.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\js\\authentication.js",
+      "PackagePath": "staticwebassets\\assets\\js\\authentication.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\js\\crm-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\crm-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\js\\custom-switcher.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom-switcher.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\js\\defaultmenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\defaultmenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\js\\show-password.js",
+      "PackagePath": "staticwebassets\\assets\\js\\show-password.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\js\\simplebar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\simplebar.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\js\\sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\chart.js\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chart.js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\choices.js\\public\\assets\\scripts\\choices.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\choices.js\\public\\assets\\scripts\\choices.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\choices.js\\public\\assets\\styles\\choices.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\choices.js\\public\\assets\\styles\\choices.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\flatpickr\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\flatpickr\\flatpickr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\jsvectormap\\css\\jsvectormap.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\jsvectormap\\css\\jsvectormap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\jsvectormap\\js\\jsvectormap.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jsvectormap\\js\\jsvectormap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\jsvectormap\\maps\\world-merc.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jsvectormap\\maps\\world-merc.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\node-waves\\waves.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\node-waves\\waves.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\node-waves\\waves.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\node-waves\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\popperjs\\core\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\popperjs\\core\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\simonwep\\pickr\\pickr.es5.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\simonwep\\pickr\\pickr.es5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\simonwep\\pickr\\themes\\nano.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\simonwep\\pickr\\themes\\nano.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\assets\\libs\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\favicon copy.png",
+      "PackagePath": "staticwebassets\\favicon copy.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\mogha\\Desktop\\BlazorMauiApp\\BlazorMauiApp\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.BlazorMauiApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.BlazorMauiApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.BlazorMauiApp.props",
+      "PackagePath": "build\\BlazorMauiApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.BlazorMauiApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorMauiApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.BlazorMauiApp.props",
+      "PackagePath": "buildTransitive\\BlazorMauiApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
